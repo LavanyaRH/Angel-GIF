@@ -18,4 +18,3 @@ This is my first Python project! I built this to learn how to handle external li
 * `imageio`
 * `Pillow` (PIL)
 * `numpy`
-*
